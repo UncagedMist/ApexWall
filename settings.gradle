@@ -1,0 +1,2 @@
+rootProject.name = "Apex Legends Wallpapers"
+include ':app'

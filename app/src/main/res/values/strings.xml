@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Valorant Wallpaper</string>
+
+    <string name="APP_ID">ca-app-pub-7920815986886474~8151924436</string>
+
+    <string name="ADMOB_OPEN_ID">ca-app-pub-7920815986886474/6089169192</string>
+    <string name="ADMOB_BANNER_ID">ca-app-pub-7920815986886474/5017768284</string>
+    <string name="ADMOB_FULL_SCREEN">ca-app-pub-7920815986886474/1078523276</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
